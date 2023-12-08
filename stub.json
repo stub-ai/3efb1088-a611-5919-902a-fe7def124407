@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a simple CRM system","md5":"a9ebae6b6d0f5dc3db8999a122c9e229"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a simple CRM system","md5":"a9ebae6b6d0f5dc3db8999a122c9e229"},{"prompt":"scdcds","md5":"3e703495cb0c1dc29c6f67e29980cf43"}]}
